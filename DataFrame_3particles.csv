@@ -1,0 +1,19 @@
+particle,text.srclang,text.group,register,abs_frequency,i.p.m.,arf,ratio,comment
+právě,CS,Acquis,Law,0,0,0,,
+právě,CS,Europarl,EditedSpoken,221,"823,4","40,02","1,46192496848534",Vanligast när SL= CS
+právě,CS,Core,Fiction,692,"30,22","12,13","0,0457186081694402",Vanligast när SL= SV
+právě,SV,Acquis,Law,0,0,0,,
+právě,SV,Europarl,EditedSpoken,206,"563,23","39,26",,
+právě,SV,Core,Fiction,6357,661,"272,37",,
+bohužel,CS,Acquis,Law,0,0,0,,
+bohužel,CS,Europarl,EditedSpoken,113,"421,02","21,98","1,32746878547106",Vanligast när SL= CS
+bohužel,CS,Core,Fiction,45,"1,96","4,38","0,0263263935527199",Vanligast när SL= SV
+bohužel,SV,Acquis,Law,0,0,0,,
+bohužel,SV,Europarl,EditedSpoken,116,"317,16","21,56",,
+bohužel,SV,Core,Fiction,716,"74,45","100,54",,
+asi,CS,Acquis,Law,0,0,0,,
+asi,CS,Europarl,EditedSpoken,36,"134,13","7,33","2,4529992684711",Vanligast när SL= CS
+asi,CS,Core,Fiction,623,"27,2","10,6","0,0453046403944169",Vanligast när SL= SV
+asi,SV,Acquis,Law,0,0,0,,
+asi,SV,Europarl,EditedSpoken,20,"54,68","4,49",,
+asi,SV,Core,Fiction,5774,"600,38","249,26",,
